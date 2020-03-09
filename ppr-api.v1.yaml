@@ -51,8 +51,8 @@ paths:
         ## Pre-Conditions
         * You must be authenticated and have a valid API authorization key.
         * You must have a positive account balance in order to pay for the search.
-        ## Post-Conditions
-        * 
+        ### Post-Conditions
+        * What to do afterwards?
         ## Cost?
         * $7.00 Regulatory Fee, $1.50 Service Charge 
       responses:
