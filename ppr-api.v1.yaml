@@ -27,7 +27,7 @@ paths:
         ## Post-Conditions
           * None
         ## Cost?
-          * No cost associated with this action.
+          * Searches are free!
       tags: [Search]
       responses:
         '200':
