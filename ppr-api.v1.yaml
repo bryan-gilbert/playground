@@ -25,7 +25,7 @@ paths:
           * You must be authenticated and have a valid API authorization key. 
           * You must have already performed a search.
         ## Post-Conditions
-          * None
+          * There are some Post Conditions
         ## Cost?
           * No cost associated with this action.
       tags: [Search]
