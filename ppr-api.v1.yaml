@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Personal Property Registry API
   version: '1.0'
-  description: Interact with the BC Personal Property Registry 
+  description: API to allow you to Search, or Register a Financial Statement
   contact:
     name: BC Registries
 servers:
